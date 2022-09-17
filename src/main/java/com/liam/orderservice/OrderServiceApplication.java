@@ -1,4 +1,4 @@
-package com.liam.omikujiform;
+package com.liam.orderservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

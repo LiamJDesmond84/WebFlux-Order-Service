@@ -1,4 +1,4 @@
-package com.liam.omikujiform;
+package com.liam.orderservice;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
